@@ -1,1 +1,1 @@
-Git directory readme
+Git directory readme.
